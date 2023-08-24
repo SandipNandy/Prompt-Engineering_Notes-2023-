@@ -1,0 +1,7 @@
+1. 2-chat-models => https://colab.research.google.com/drive/1YVSWFOcZ0KUmohrfMQF5WEd3imxyNLHA?usp=sharing
+2. 3-chat-model-prompt-templates => https://colab.research.google.com/drive/1DSlicFFrQ-u5pOlWBRqQcLgDh65LA17m?usp=sharing
+3. 4-chat-models-streaming => https://colab.research.google.com/drive/1p-NYdTZE-r_Q5XpPsHyZ3w-0rliDXSPW?usp=sharing
+4. 5-chat-models-output-parsing => https://colab.research.google.com/drive/1jxOy6td0-andHKV4FwfKwOFzHl0iAQkB?usp=sharing
+5. 6-chat-models-simple-chains => https://colab.research.google.com/drive/1Y01fjDOYf-Uw7hDRnoEuXyDfbzWiIGuk?usp=sharing
+6. 7-chat-models-router-chain => https://colab.research.google.com/drive/1C7ojkXABa2aHZFR8647loX4QQXChDIHz?usp=sharing
+7. 8-chat-models-sequential-chain => https://colab.research.google.com/drive/1MoCfDHjPxR1UK1lyJjSajPezcr89r-ph?usp=sharing
